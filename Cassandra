@@ -1,0 +1,23 @@
+
+https://developers.google.com/protocol-buffers/docs/pythontutorial
+http://www.hazelcast.com/resources/hazelcast-performance-vs-mongodb-cassandra-terracotta-and-oracle-coherence/
+http://stackoverflow.com/questions/7963740/migrating-from-rdbms-to-nosql-for-a-large-legacy-system
+http://www.kavistechnology.com/blog/nosql-vs-rdbms-apples-and-oranges/
+
+http://www.hazelcast.org/independent-benchmark-hazelcast-performance-vs-mongodb-cassandra-terracotta-and-oracle-coherence/
+http://blogs.technet.com/b/schadinio/archive/2010/07/09/installing-hyper-v-manager-on-windows-7.aspx
+http://www.microsoft.com/en-us/download/details.aspx?id=7887
+
+
+HBase being more suitable for data warehousing, and large scale data processing and analysis (for example, such as that involved when indexing the Web) 
+Cassandra is suitable for real time transaction processing and the serving of interactive data (FB)
+CAP - Hbase - CP, Cassandra - AP (+c - consistency level  =ALL - QUORUMs
+modularity 
+node comm - Cassandra p2p/gossip  Hbase
+benchmarking ycsb 
+http://wiki.apache.org/cassandra/FrontPage
+http://wiki.apache.org/cassandra/ArticlesAndPresentations
+http://www.datastax.com/what-we-offer/products-services/training/virtual-training
+http://www.datastax.com/docs/1.1/ddl/column_family
+http://www.makingitscale.com/2012/scaling-cassandra-counter-columns.html
+http://maxgrinev.com/2010/07/09/a-quick-introduction-to-the-cassandra-data-model/
